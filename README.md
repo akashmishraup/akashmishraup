@@ -1,10 +1,15 @@
-# 💫 About Me:
-<h1 align="center">Hi 👋, I'm Akash Mishra</h1>
+# 💫About Me :
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> , I'm Akash Chandra Mishra<img 
+                                                                                                                               <br>
+
+  <a href="https://akashmishraup.github.io/" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Portfolio&color=Teal&logo=tmux&logoColor=teal&label=" alt="Lybrate" /></a> 
 <h3 align="center">I am an Analytical and detail-oriented aspiring tech support engineer. Highly adept in working on multiple operating systems. Proficient in rapport-building and understanding the outstanding customer service of an organization.</h3>
+  
+  <img align="right" alt="coding" width="400"src="https://cdn.dribbble.com/users/1217765/screenshots/2791439/typing-girl-sss.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akashmishraup&label=Profile%20views&color=0e75b6&style=flat" alt="akashmishraup" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akashmishraup" alt="akashmishraup" /></a> </p>
+<p align="left"> <img src="https://th.bing.com/th/id/OIP.kwTx3d4U2Ft-Y2HbrmotMAHaG8?pid=ImgDet&w=178&h=166&c=7&dpr=1.6" alt="akashmishraup" /> </p>
+
 
 <p align="left"> <a href="https://twitter.com/@mi71548267akash" target="blank"><img src="https://img.shields.io/twitter/follow/@mi71548267akash?logo=twitter&style=for-the-badge" alt="@mi71548267akash" /></a> </p>
 
@@ -39,3 +44,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akashmishraup&show_icons=true&locale=en" alt="akashmishraup" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashmishraup&" alt="akashmishraup" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akashmishraup" alt="akashmishraup" /></a> </p>
