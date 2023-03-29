@@ -3,6 +3,7 @@
                                                                                                                                <br>
 
   <a href="https://akashmishraup.github.io/" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Portfolio&color=Teal&logo=tmux&logoColor=teal&label=" alt="Lybrate" /></a> 
+  <h3 align="center">A passionate Technical Support Engineer from India</h3>
 <h3 align="center">I am an Analytical and detail-oriented aspiring tech support engineer. Highly adept in working on multiple operating systems. Proficient in rapport-building and understanding the outstanding customer service of an organization.</h3>
   
   
