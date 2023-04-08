@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **akashvns67@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1fFRuQlmPJxnp1AHyCNEvAyq8WoEhX-7E/view](MyResume)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1mwNXrJKafKVf2ys7V1MxwpmDI8go--os/view)
 
 - ⚡ Fun fact **I think I am energetic and have good sense of humour**
 
